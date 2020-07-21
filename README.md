@@ -7,3 +7,4 @@ Study guides for Oral Final Study Exam regarding Object-Oriented Programming con
 - Polymorphism
 - Abstract Base Class (ABC)
 - Object Casting
+- Pointer (C++)
