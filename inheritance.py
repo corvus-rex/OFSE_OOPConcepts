@@ -54,5 +54,5 @@ foo.printname()
 bar = Student()
 bar.firstname = "Adrian"
 bar.lastname = "Riadi"
-bar.graduationyear = 2019
+bar.graduationyear = 2069
 bar.printinfo()
